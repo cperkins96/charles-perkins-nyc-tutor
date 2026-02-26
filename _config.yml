@@ -1,0 +1,10 @@
+title: "Charles Perkins NYC Tutor"
+description: "NYC tutor for math and chemistry. 1:1 tutoring online or in-person in New York City."
+url: "https://cperkins96.github.io"
+baseurl: "/charles-perkins-nyc-tutor"
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
