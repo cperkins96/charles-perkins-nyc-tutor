@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cperkins96.github.io/charles-perkins-nyc-tutor/sitemap.xml
