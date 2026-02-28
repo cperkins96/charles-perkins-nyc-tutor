@@ -26,7 +26,7 @@ title: Charles Perkins NYC Tutor
   <main class="content">
     <h1>Charles Perkins <span class="muted">NYC Tutor</span></h1>
     <p class="tagline">
-      Math & Chemistry tutoring with crisp explanations, smart practice, and momentum you can feel.
+      STEM and standardized exam tutoring for high school, college, post-graduate, and professional students.
     </p>
 
     <section class="linkcard">
@@ -34,7 +34,7 @@ title: Charles Perkins NYC Tutor
         Wyzant Profile
       </a>
       <p class="blurb">
-        Reviews, subjects, and booking details — a quick way to see how I teach and what students say after working together.
+        Check out my reviews, subjects, and availability on Wyzant — America’s largest tutoring marketplace.
       </p>
     </section>
 
@@ -43,7 +43,7 @@ title: Charles Perkins NYC Tutor
         Thumbtack Profile
       </a>
       <p class="blurb">
-        NYC tutoring services and availability, plus an easy path to request a quote and share what you’re working on.
+        Hear from Thumbtack clients about their experience working with me.
       </p>
     </section>
 
@@ -52,18 +52,19 @@ title: Charles Perkins NYC Tutor
         Publication (ScienceDirect)
       </a>
       <p class="blurb">
-        A peer-reviewed publication — if you’re curious about my research side and how I approach evidence and results.
+        If you’re curious about my research experience, you can read my peer-reviewed article in the British Journal of Anaesthesia
       </p>
     </section>
 
     <hr />
 
-    <h2>How sessions usually work</h2>
-    <ul>
-      <li><strong>Diagnose:</strong> we spot exactly where things start to blur</li>
-      <li><strong>Simplify:</strong> clear rules, patterns, and intuition</li>
-      <li><strong>Reinforce:</strong> targeted practice until it feels automatic</li>
-    </ul>
+    <h2>How sessions usually work:</h2>
+<ul>
+  <li><strong>Introduce:</strong> We discuss your needs and create a plan of action.</li>
+  <li><strong>Assess:</strong> We work through sample problems until I understand your current comfort level.</li>
+  <li><strong>Explain:</strong> We break down concepts into simple rules, patterns, and calculations to make learning feel easy.</li>
+  <li><strong>Reinforce:</strong> We run targeted drills to close gaps and build mastery.</li>
+</ul>
 
     <p class="foot">
       NYC-based • Online or in-person • Fast replies
