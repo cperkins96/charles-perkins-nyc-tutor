@@ -20,12 +20,7 @@ title: Charles Perkins NYC Tutor
       </a>
     </nav>
 
-    <div class="sidebar-note">
-      <div class="note-title">Quick links</div>
-      <a class="mini-link" href="https://www.wyzant.com/Tutors/CharlesOrgoTutor" target="_blank" rel="noopener">Wyzant</a>
-      <a class="mini-link" href="https://www.thumbtack.com/ny/new-york/math-tutors/charles-perkins-manhattan-tutor/service/86021705032991928" target="_blank" rel="noopener">Thumbtack</a>
-      <a class="mini-link" href="https://www.sciencedirect.com/science/article/pii/S000709121753857X" target="_blank" rel="noopener">Publication</a>
-    </div>
+    
   </aside>
 
   <main class="content">
