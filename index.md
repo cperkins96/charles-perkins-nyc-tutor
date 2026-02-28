@@ -34,7 +34,7 @@ title: Charles Perkins NYC Tutor
         Wyzant Profile
       </a>
       <p class="blurb">
-        Check out my reviews, subjects, and availability on Wyzant — America’s largest tutoring marketplace.
+        Check out my reviews, subjects, and availability on Wyzant — America’s largest tutoring marketplace!
       </p>
     </section>
 
@@ -43,7 +43,7 @@ title: Charles Perkins NYC Tutor
         Thumbtack Profile
       </a>
       <p class="blurb">
-        Hear from Thumbtack clients about their experience working with me.
+        Hear from Thumbtack clients about their experience working with me!
       </p>
     </section>
 
@@ -52,7 +52,7 @@ title: Charles Perkins NYC Tutor
         Publication (ScienceDirect)
       </a>
       <p class="blurb">
-        If you’re curious about my research experience, you can read my peer-reviewed article in the British Journal of Anaesthesia
+        Curious about my research experience? Read my peer-reviewed article in the British Journal of Anaesthesia!
       </p>
     </section>
 
